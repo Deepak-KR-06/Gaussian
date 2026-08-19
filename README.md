@@ -25,7 +25,7 @@ To write a program to find the solution of a matrix using Gaussian Elimination.
 ### step 7: Print the final calculated values for all unknown variables, formatted to two decimal places.
 
 ## Program:
-```
+```py
 /*
 Program to find the solution of a matrix using Gaussian Elimination.
 Developed by: Deepak K R
